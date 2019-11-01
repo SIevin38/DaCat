@@ -15,8 +15,8 @@ X = np.linspace(1, 8, 200)
 Y = np.fft.fft(X)
 
 b = 7
+c = np.pi
 
 
 print(b)
-
 print(h)
