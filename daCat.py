@@ -17,5 +17,6 @@ Y = np.fft.fft(X)
 b = 7
 c = np.pi
 
-print(b)
+
 print(c)
+print("Carlo is cool")
