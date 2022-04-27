@@ -14,7 +14,7 @@ h = 5
 X = np.linspace(1, 8, 200)
 Y = np.fft.fft(X)
 
-b = 7
+b = 9
 c = np.pi
 
 
